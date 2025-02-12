@@ -1,4 +1,4 @@
-# PoseRecognitionControlRoboy
+# PoseEstimationControlRoboy
 Control microbit robot using pose estimation (Serial uart) 
 
 How to run:
